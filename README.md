@@ -40,7 +40,8 @@ The dataset includes:
 ---
 
 ## 🔹 Dashboard Preview
-(Add screenshots below)
+ <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/20dc778c-0828-4241-b0dd-f693fdf3bb81" />
+
 
 ---
 
