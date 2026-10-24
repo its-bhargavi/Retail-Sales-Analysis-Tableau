@@ -41,6 +41,7 @@ The dataset includes:
 
 ## 🔹 Dashboard Preview
  <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/20dc778c-0828-4241-b0dd-f693fdf3bb81" />
+<img width="960" height="600" alt="Screenshot 2026-10-25 025005" src="https://github.com/user-attachments/assets/be58867c-f1f1-4545-90b4-58955ed35caf" />
 
 
 ---
